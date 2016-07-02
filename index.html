@@ -1,40 +1,26 @@
 ---
-layout: default
+layout: sidebar
 ---
 
+<div class="jumbotron">
+    <h1>Henderson Books</h1>
+    <p>Thanks for visiting <strong>hendersonbooks.com</strong>, a terrific source of genealogical <a href="/pafg01.htm">information about the descendants of Thomas Henderson Jr.</a></p>
+    <p>
+        <a href="/books.html" class="btn btn-primary btn-lg" role="button">Books</a>
+        <a href="/about.html" class="btn btn-default btn-lg" role="button">About Robert</a>
+    </p>
+</div>
+
 <div class="row">
-
-    <div class="col-md-8">
-        <div class="jumbotron">
-            <h1>Henderson Books</h1>
-            <p>Thanks for visiting <strong>hendersonbooks.com</strong>, a terrific source of genealogical <a href="/descendants.html">information about the descendants of Thomas Henderson Jr.</a></p>
-            <p>
-                <a href="/descendants.html" class="btn btn-primary btn-lg" role="button">View Descendants</a>
-            </p>
-        </div>
-
-        <div class="row">
-            {% for book in site.data.books %}
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <img src="{{ book.img }}">
-                    <div class="caption">
-                        <h5>{{ book.title }}</h5>
-                        <p><span class="badge">{{ book.price }}</span></p>
-                        <p>{{ book.description }}; {{ book.pages }} pages.</p>
-                    </div>
-                </div>
+    {% for book in site.data.books %}<div
+    class="col-sm-6 col-md-4 book-block">
+        <div class="thumbnail">
+            <img src="{{ book.img }}">
+            <div class="caption">
+                <h5>{{ book.title }}</h5>
+                <p><span class="badge">{{ book.price }}</span></p>
+                <p>{{ book.description }}; {{ book.pages }} pages.</p>
             </div>
-            {% endfor %}
         </div>
-
-        <div class="alert alert-info" role="alert">
-            <b>Important Notice</b>: See the <a href="/about.html">about page</a> for more information.
-        </div>
-    </div>
-
-    <div class="col-md-4">
-        {% include sidebar.html %}
-    </div>
-
+    </div>{% endfor %}
 </div>
