@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="" />
+    <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/Robert-Hendersons-Sr-Family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Robert-Hendersons-Sr-Family.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/books.yml" afterPath="$PROJECT_DIR$/_data/books.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="hendersonbooks.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <file leaf-file-name="books.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/books.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="275">
+              <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -58,14 +67,14 @@
         <option value="$PROJECT_DIR$/_books/2016-07-02-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_books/house-of-henderson.markdown" />
-        <option value="$PROJECT_DIR$/_data/books.yml" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/descendants.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/index2.htm" />
         <option value="$PROJECT_DIR$/index3.htm" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_data/books.yml" />
       </list>
     </option>
   </component>
@@ -155,20 +164,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hendersonbooks.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hendersonbooks.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -254,7 +249,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467481399765</updated>
-      <workItem from="1467481401046" duration="7253000" />
+      <workItem from="1467481401046" duration="9625000" />
     </task>
     <task id="LOCAL-00001" summary="wip design">
       <created>1467492024452</created>
@@ -267,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7253000" />
+    <option name="totallyTimeSpent" value="9625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1280" height="773" extended-state="0" />
@@ -277,7 +272,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288948" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756326" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -460,20 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <marker date="1467491655000" expanded="true" signature="54:253" ph="..." />
-            <marker date="1467491655000" expanded="true" signature="258:640" ph="..." />
-            <marker date="1467491655000" expanded="true" signature="645:854" ph="..." />
-            <marker date="1467491655000" expanded="true" signature="859:996" ph="..." />
-            <marker date="1467491655000" expanded="true" signature="1001:1047" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/descendants.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -496,25 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/books.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <marker date="1467491549000" expanded="true" signature="9:27" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="37:40" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="50:56" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="64:97" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="113:134" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="145:180" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="190:193" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="203:209" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="217:247" ph="..." />
-            <marker date="1467491549000" expanded="true" signature="263:284" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -525,25 +487,6 @@
             <marker date="1467490852000" expanded="true" signature="445:581" ph="description:" />
             <marker date="1467490852000" expanded="true" signature="511:581" ph="..." />
             <marker date="1467490852000" expanded="true" signature="735:743" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <marker date="1467491826000" expanded="true" signature="41:1274" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="69:1192" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="101:496" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="354:481" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="523:1009" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="613:969" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="653:950" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="742:927" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="1062:1181" ph="..." />
-            <marker date="1467491826000" expanded="true" signature="1220:1266" ph="..." />
           </folding>
         </state>
       </provider>
@@ -3340,8 +3283,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="249">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <marker date="1467491606000" expanded="true" signature="43:240" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="426:1188" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="476:559" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="609:695" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="745:829" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="891:984" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="1016:1181" ph="..." />
+            <marker date="1467491606000" expanded="true" signature="1058:1172" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <marker date="1467492413000" expanded="true" signature="1387:1510" ph="..." />
+            <marker date="1467492413000" expanded="true" signature="1577:1776" ph="..." />
+            <marker date="1467492413000" expanded="true" signature="1781:2163" ph="..." />
+            <marker date="1467492413000" expanded="true" signature="2168:2377" ph="..." />
+            <marker date="1467492413000" expanded="true" signature="2382:2519" ph="..." />
+            <marker date="1467492413000" expanded="true" signature="2524:2570" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <marker date="1467492748000" expanded="true" signature="41:1320" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="69:1238" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="101:496" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="354:481" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="523:1055" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="613:1015" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="653:996" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="742:973" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="1108:1227" ph="..." />
+            <marker date="1467492748000" expanded="true" signature="1266:1312" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/books.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
           <folding />
         </state>
       </provider>
