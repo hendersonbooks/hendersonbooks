@@ -11,16 +11,4 @@ layout: sidebar
     </p>
 </div>
 
-<div class="row">
-    {% for book in site.data.books %}<div
-    class="col-sm-6 col-md-4 book-block">
-        <div class="thumbnail">
-            <img src="{{ book.img }}">
-            <div class="caption">
-                <h5>{{ book.title }}</h5>
-                <p><span class="badge">{{ book.price }}</span></p>
-                <p>{{ book.description }}; {{ book.pages }} pages.</p>
-            </div>
-        </div>
-    </div>{% endfor %}
-</div>
+{% include allbooks.html %}
