@@ -1,0 +1,11 @@
+- title: House of Henderson
+  pages: 280
+  price: $10.00
+  img: /images/books/Henderson-House.png
+  description: This is a description
+
+- title: Henderson's of Early South Carolina
+  pages: 280
+  price: $10.00
+  img: /images/books/Henderson-SC.png
+  description: This is a description
