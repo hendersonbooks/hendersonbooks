@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/books.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/sidebar.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-AL.png" afterPath="$PROJECT_DIR$/images/books/Henderson-AL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-AR.png" afterPath="$PROJECT_DIR$/images/books/Henderson-AR.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-CA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-CA.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-FL.png" afterPath="$PROJECT_DIR$/images/books/Henderson-FL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-GA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-GA.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-House.png" afterPath="$PROJECT_DIR$/images/books/Henderson-House.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-LA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-LA.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-MA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-MA.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-NC.png" afterPath="$PROJECT_DIR$/images/books/Henderson-NC.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-OR.png" afterPath="$PROJECT_DIR$/images/books/Henderson-OR.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-PA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-PA.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-RI-DE.png" afterPath="$PROJECT_DIR$/images/books/Henderson-RI-DE.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-SC.png" afterPath="$PROJECT_DIR$/images/books/Henderson-SC.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-TN.png" afterPath="$PROJECT_DIR$/images/books/Henderson-TN.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-TX.png" afterPath="$PROJECT_DIR$/images/books/Henderson-TX.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/books/Henderson-VA.png" afterPath="$PROJECT_DIR$/images/books/Henderson-VA.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/descendants.html" afterPath="$PROJECT_DIR$/descendants.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.htm" afterPath="$PROJECT_DIR$/index2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index3.htm" afterPath="$PROJECT_DIR$/index3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pafg01.htm" afterPath="$PROJECT_DIR$/pafg01.htm" />
-    </list>
+    <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="" />
     <ignored path="hendersonbooks.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -281,12 +254,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467481399765</updated>
-      <workItem from="1467481401046" duration="7197000" />
+      <workItem from="1467481401046" duration="7253000" />
     </task>
+    <task id="LOCAL-00001" summary="wip design">
+      <created>1467492024452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467492024452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7197000" />
+    <option name="totallyTimeSpent" value="7253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1280" height="773" extended-state="0" />
@@ -316,6 +297,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wip design" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
