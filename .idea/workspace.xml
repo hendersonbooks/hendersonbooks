@@ -2,155 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/buy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/books.yml" afterPath="$PROJECT_DIR$/_data/books.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/allbooks.html" afterPath="$PROJECT_DIR$/_includes/allbooks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books.html" afterPath="$PROJECT_DIR$/_site/books.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/hendersons-of-early-sc.html" afterPath="$PROJECT_DIR$/_site/books/hendersons-of-early-sc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/house-of-henderson.html" afterPath="$PROJECT_DIR$/_site/books/house-of-henderson.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index2.htm" afterPath="$PROJECT_DIR$/_site/index2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index3.htm" afterPath="$PROJECT_DIR$/_site/index3.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg01.htm" afterPath="$PROJECT_DIR$/_site/pafg01.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg02.htm" afterPath="$PROJECT_DIR$/_site/pafg02.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg03.htm" afterPath="$PROJECT_DIR$/_site/pafg03.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg04.htm" afterPath="$PROJECT_DIR$/_site/pafg04.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg05.htm" afterPath="$PROJECT_DIR$/_site/pafg05.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg06.htm" afterPath="$PROJECT_DIR$/_site/pafg06.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg07.htm" afterPath="$PROJECT_DIR$/_site/pafg07.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg08.htm" afterPath="$PROJECT_DIR$/_site/pafg08.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg09.htm" afterPath="$PROJECT_DIR$/_site/pafg09.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg10.htm" afterPath="$PROJECT_DIR$/_site/pafg10.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg100.htm" afterPath="$PROJECT_DIR$/_site/pafg100.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg101.htm" afterPath="$PROJECT_DIR$/_site/pafg101.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg102.htm" afterPath="$PROJECT_DIR$/_site/pafg102.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg103.htm" afterPath="$PROJECT_DIR$/_site/pafg103.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg104.htm" afterPath="$PROJECT_DIR$/_site/pafg104.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg105.htm" afterPath="$PROJECT_DIR$/_site/pafg105.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg106.htm" afterPath="$PROJECT_DIR$/_site/pafg106.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg107.htm" afterPath="$PROJECT_DIR$/_site/pafg107.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg108.htm" afterPath="$PROJECT_DIR$/_site/pafg108.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg109.htm" afterPath="$PROJECT_DIR$/_site/pafg109.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg11.htm" afterPath="$PROJECT_DIR$/_site/pafg11.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg110.htm" afterPath="$PROJECT_DIR$/_site/pafg110.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg111.htm" afterPath="$PROJECT_DIR$/_site/pafg111.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg112.htm" afterPath="$PROJECT_DIR$/_site/pafg112.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg113.htm" afterPath="$PROJECT_DIR$/_site/pafg113.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg114.htm" afterPath="$PROJECT_DIR$/_site/pafg114.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg115.htm" afterPath="$PROJECT_DIR$/_site/pafg115.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg116.htm" afterPath="$PROJECT_DIR$/_site/pafg116.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg117.htm" afterPath="$PROJECT_DIR$/_site/pafg117.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg118.htm" afterPath="$PROJECT_DIR$/_site/pafg118.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg119.htm" afterPath="$PROJECT_DIR$/_site/pafg119.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg12.htm" afterPath="$PROJECT_DIR$/_site/pafg12.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg120.htm" afterPath="$PROJECT_DIR$/_site/pafg120.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg121.htm" afterPath="$PROJECT_DIR$/_site/pafg121.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg122.htm" afterPath="$PROJECT_DIR$/_site/pafg122.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg123.htm" afterPath="$PROJECT_DIR$/_site/pafg123.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg124.htm" afterPath="$PROJECT_DIR$/_site/pafg124.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg125.htm" afterPath="$PROJECT_DIR$/_site/pafg125.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg126.htm" afterPath="$PROJECT_DIR$/_site/pafg126.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg127.htm" afterPath="$PROJECT_DIR$/_site/pafg127.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg128.htm" afterPath="$PROJECT_DIR$/_site/pafg128.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg129.htm" afterPath="$PROJECT_DIR$/_site/pafg129.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg13.htm" afterPath="$PROJECT_DIR$/_site/pafg13.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg130.htm" afterPath="$PROJECT_DIR$/_site/pafg130.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg131.htm" afterPath="$PROJECT_DIR$/_site/pafg131.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg132.htm" afterPath="$PROJECT_DIR$/_site/pafg132.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg133.htm" afterPath="$PROJECT_DIR$/_site/pafg133.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg134.htm" afterPath="$PROJECT_DIR$/_site/pafg134.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg135.htm" afterPath="$PROJECT_DIR$/_site/pafg135.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg136.htm" afterPath="$PROJECT_DIR$/_site/pafg136.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg14.htm" afterPath="$PROJECT_DIR$/_site/pafg14.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg15.htm" afterPath="$PROJECT_DIR$/_site/pafg15.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg16.htm" afterPath="$PROJECT_DIR$/_site/pafg16.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg17.htm" afterPath="$PROJECT_DIR$/_site/pafg17.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg18.htm" afterPath="$PROJECT_DIR$/_site/pafg18.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg19.htm" afterPath="$PROJECT_DIR$/_site/pafg19.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg20.htm" afterPath="$PROJECT_DIR$/_site/pafg20.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg21.htm" afterPath="$PROJECT_DIR$/_site/pafg21.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg22.htm" afterPath="$PROJECT_DIR$/_site/pafg22.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg23.htm" afterPath="$PROJECT_DIR$/_site/pafg23.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg24.htm" afterPath="$PROJECT_DIR$/_site/pafg24.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg25.htm" afterPath="$PROJECT_DIR$/_site/pafg25.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg26.htm" afterPath="$PROJECT_DIR$/_site/pafg26.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg27.htm" afterPath="$PROJECT_DIR$/_site/pafg27.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg28.htm" afterPath="$PROJECT_DIR$/_site/pafg28.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg29.htm" afterPath="$PROJECT_DIR$/_site/pafg29.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg30.htm" afterPath="$PROJECT_DIR$/_site/pafg30.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg31.htm" afterPath="$PROJECT_DIR$/_site/pafg31.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg32.htm" afterPath="$PROJECT_DIR$/_site/pafg32.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg33.htm" afterPath="$PROJECT_DIR$/_site/pafg33.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg34.htm" afterPath="$PROJECT_DIR$/_site/pafg34.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg35.htm" afterPath="$PROJECT_DIR$/_site/pafg35.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg36.htm" afterPath="$PROJECT_DIR$/_site/pafg36.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg37.htm" afterPath="$PROJECT_DIR$/_site/pafg37.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg38.htm" afterPath="$PROJECT_DIR$/_site/pafg38.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg39.htm" afterPath="$PROJECT_DIR$/_site/pafg39.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg40.htm" afterPath="$PROJECT_DIR$/_site/pafg40.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg41.htm" afterPath="$PROJECT_DIR$/_site/pafg41.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg42.htm" afterPath="$PROJECT_DIR$/_site/pafg42.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg43.htm" afterPath="$PROJECT_DIR$/_site/pafg43.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg44.htm" afterPath="$PROJECT_DIR$/_site/pafg44.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg45.htm" afterPath="$PROJECT_DIR$/_site/pafg45.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg46.htm" afterPath="$PROJECT_DIR$/_site/pafg46.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg47.htm" afterPath="$PROJECT_DIR$/_site/pafg47.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg48.htm" afterPath="$PROJECT_DIR$/_site/pafg48.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg49.htm" afterPath="$PROJECT_DIR$/_site/pafg49.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg50.htm" afterPath="$PROJECT_DIR$/_site/pafg50.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg51.htm" afterPath="$PROJECT_DIR$/_site/pafg51.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg52.htm" afterPath="$PROJECT_DIR$/_site/pafg52.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg53.htm" afterPath="$PROJECT_DIR$/_site/pafg53.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg54.htm" afterPath="$PROJECT_DIR$/_site/pafg54.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg55.htm" afterPath="$PROJECT_DIR$/_site/pafg55.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg56.htm" afterPath="$PROJECT_DIR$/_site/pafg56.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg57.htm" afterPath="$PROJECT_DIR$/_site/pafg57.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg58.htm" afterPath="$PROJECT_DIR$/_site/pafg58.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg59.htm" afterPath="$PROJECT_DIR$/_site/pafg59.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg60.htm" afterPath="$PROJECT_DIR$/_site/pafg60.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg61.htm" afterPath="$PROJECT_DIR$/_site/pafg61.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg62.htm" afterPath="$PROJECT_DIR$/_site/pafg62.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg63.htm" afterPath="$PROJECT_DIR$/_site/pafg63.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg64.htm" afterPath="$PROJECT_DIR$/_site/pafg64.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg65.htm" afterPath="$PROJECT_DIR$/_site/pafg65.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg66.htm" afterPath="$PROJECT_DIR$/_site/pafg66.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg67.htm" afterPath="$PROJECT_DIR$/_site/pafg67.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg68.htm" afterPath="$PROJECT_DIR$/_site/pafg68.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg69.htm" afterPath="$PROJECT_DIR$/_site/pafg69.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg70.htm" afterPath="$PROJECT_DIR$/_site/pafg70.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg71.htm" afterPath="$PROJECT_DIR$/_site/pafg71.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg72.htm" afterPath="$PROJECT_DIR$/_site/pafg72.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg73.htm" afterPath="$PROJECT_DIR$/_site/pafg73.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg74.htm" afterPath="$PROJECT_DIR$/_site/pafg74.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg75.htm" afterPath="$PROJECT_DIR$/_site/pafg75.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg76.htm" afterPath="$PROJECT_DIR$/_site/pafg76.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg77.htm" afterPath="$PROJECT_DIR$/_site/pafg77.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg78.htm" afterPath="$PROJECT_DIR$/_site/pafg78.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg79.htm" afterPath="$PROJECT_DIR$/_site/pafg79.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg80.htm" afterPath="$PROJECT_DIR$/_site/pafg80.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg81.htm" afterPath="$PROJECT_DIR$/_site/pafg81.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg82.htm" afterPath="$PROJECT_DIR$/_site/pafg82.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg83.htm" afterPath="$PROJECT_DIR$/_site/pafg83.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg84.htm" afterPath="$PROJECT_DIR$/_site/pafg84.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg85.htm" afterPath="$PROJECT_DIR$/_site/pafg85.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg86.htm" afterPath="$PROJECT_DIR$/_site/pafg86.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg87.htm" afterPath="$PROJECT_DIR$/_site/pafg87.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg88.htm" afterPath="$PROJECT_DIR$/_site/pafg88.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg89.htm" afterPath="$PROJECT_DIR$/_site/pafg89.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg90.htm" afterPath="$PROJECT_DIR$/_site/pafg90.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg91.htm" afterPath="$PROJECT_DIR$/_site/pafg91.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg92.htm" afterPath="$PROJECT_DIR$/_site/pafg92.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg93.htm" afterPath="$PROJECT_DIR$/_site/pafg93.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg94.htm" afterPath="$PROJECT_DIR$/_site/pafg94.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg95.htm" afterPath="$PROJECT_DIR$/_site/pafg95.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg96.htm" afterPath="$PROJECT_DIR$/_site/pafg96.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg97.htm" afterPath="$PROJECT_DIR$/_site/pafg97.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg98.htm" afterPath="$PROJECT_DIR$/_site/pafg98.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pafg99.htm" afterPath="$PROJECT_DIR$/_site/pafg99.htm" />
     </list>
     <ignored path="hendersonbooks.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -409,7 +262,7 @@
       <option name="presentableId" value="Default" />
       <updated>1467481399765</updated>
       <workItem from="1467481401046" duration="14466000" />
-      <workItem from="1467657537662" duration="1255000" />
+      <workItem from="1467657537662" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="wip design">
       <created>1467492024452</created>
@@ -488,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467657614569</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add buy section">
+      <created>1467659643537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1467659643537</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15721000" />
+    <option name="totallyTimeSpent" value="15817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -526,7 +386,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wip design" />
     <MESSAGE value="update number of grand kids" />
-    <option name="LAST_COMMIT_MESSAGE" value="update number of grand kids" />
+    <MESSAGE value="add buy section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add buy section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
