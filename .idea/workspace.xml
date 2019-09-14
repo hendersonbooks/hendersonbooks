@@ -2,40 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/buy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/books.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/books.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/books.html" afterDir="false" />
     </list>
-    <ignored path="hendersonbooks.github.io.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="hendersonbooks.github.io" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="allbooks.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/allbooks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,136 +38,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pafg104.htm" />
-        <option value="$PROJECT_DIR$/pafg105.htm" />
-        <option value="$PROJECT_DIR$/pafg106.htm" />
-        <option value="$PROJECT_DIR$/pafg107.htm" />
-        <option value="$PROJECT_DIR$/pafg108.htm" />
-        <option value="$PROJECT_DIR$/pafg109.htm" />
-        <option value="$PROJECT_DIR$/pafg110.htm" />
-        <option value="$PROJECT_DIR$/pafg111.htm" />
-        <option value="$PROJECT_DIR$/pafg112.htm" />
-        <option value="$PROJECT_DIR$/pafg113.htm" />
-        <option value="$PROJECT_DIR$/pafg114.htm" />
-        <option value="$PROJECT_DIR$/pafg115.htm" />
-        <option value="$PROJECT_DIR$/pafg116.htm" />
-        <option value="$PROJECT_DIR$/pafg117.htm" />
-        <option value="$PROJECT_DIR$/pafg118.htm" />
-        <option value="$PROJECT_DIR$/pafg119.htm" />
-        <option value="$PROJECT_DIR$/pafg120.htm" />
-        <option value="$PROJECT_DIR$/pafg121.htm" />
-        <option value="$PROJECT_DIR$/pafg122.htm" />
-        <option value="$PROJECT_DIR$/pafg123.htm" />
-        <option value="$PROJECT_DIR$/pafg124.htm" />
-        <option value="$PROJECT_DIR$/pafg125.htm" />
-        <option value="$PROJECT_DIR$/pafg126.htm" />
-        <option value="$PROJECT_DIR$/pafg127.htm" />
-        <option value="$PROJECT_DIR$/pafg128.htm" />
-        <option value="$PROJECT_DIR$/pafg129.htm" />
-        <option value="$PROJECT_DIR$/pafg130.htm" />
-        <option value="$PROJECT_DIR$/pafg131.htm" />
-        <option value="$PROJECT_DIR$/pafg132.htm" />
-        <option value="$PROJECT_DIR$/pafg133.htm" />
-        <option value="$PROJECT_DIR$/pafg134.htm" />
-        <option value="$PROJECT_DIR$/pafg135.htm" />
-        <option value="$PROJECT_DIR$/pafg136.htm" />
-        <option value="$PROJECT_DIR$/_layouts/sidebar.html" />
-        <option value="$PROJECT_DIR$/books/hendersons-of-early-sc.html" />
-        <option value="$PROJECT_DIR$/books/house-of-henderson.html" />
-        <option value="$PROJECT_DIR$/css/main.scss" />
-        <option value="$PROJECT_DIR$/_sass/_base.scss" />
-        <option value="$PROJECT_DIR$/descendants.html" />
-        <option value="$PROJECT_DIR$/_includes/sidebar.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/_includes/books.html" />
-        <option value="$PROJECT_DIR$/books.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/_data/books.yml" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/buy.html" />
-        <option value="$PROJECT_DIR$/_includes/allbooks.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="PhpDebugGeneral" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hendersonbooks.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hendersonbooks.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hendersonbooks.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectId" id="1Qqdsnx1TYTWXunm0Vy6mpDJa0h" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="options.lastSelected" value="configurable.group.language" />
-    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -188,6 +61,18 @@
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -201,55 +86,27 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration default="true" type="mocha-javascript-test-runner">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory />
       <pass-parent-env>true</pass-parent-env>
-      <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
       <test-directory />
       <recursive>false</recursive>
-      <method />
+      <method v="2" />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -263,6 +120,8 @@
       <updated>1467481399765</updated>
       <workItem from="1467481401046" duration="14466000" />
       <workItem from="1467657537662" duration="1351000" />
+      <workItem from="1568502273926" duration="443000" />
+      <workItem from="1568502739373" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="wip design">
       <created>1467492024452</created>
@@ -351,556 +210,27 @@
     <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15817000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.246875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45139813" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.markdown" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wip design" />
     <MESSAGE value="update number of grand kids" />
     <MESSAGE value="add buy section" />
     <option name="LAST_COMMIT_MESSAGE" value="add buy section" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pafg104.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="388" column="4" selection-start-line="388" selection-start-column="4" selection-end-line="388" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg105.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="554" column="4" selection-start-line="554" selection-start-column="4" selection-end-line="554" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg106.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="337" column="4" selection-start-line="337" selection-start-column="4" selection-end-line="337" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg107.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="382" column="4" selection-start-line="382" selection-start-column="4" selection-end-line="382" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg108.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="348" column="4" selection-start-line="348" selection-start-column="4" selection-end-line="348" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg109.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="365" column="4" selection-start-line="365" selection-start-column="4" selection-end-line="365" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg110.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="361" column="4" selection-start-line="361" selection-start-column="4" selection-end-line="361" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg111.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg112.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="351" column="4" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg113.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg114.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="375" column="4" selection-start-line="375" selection-start-column="4" selection-end-line="375" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg115.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="284" column="4" selection-start-line="284" selection-start-column="4" selection-end-line="284" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg116.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="312" column="4" selection-start-line="312" selection-start-column="4" selection-end-line="312" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg117.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="315" column="4" selection-start-line="315" selection-start-column="4" selection-end-line="315" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg118.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="278" column="4" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg119.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="270" column="4" selection-start-line="270" selection-start-column="4" selection-end-line="270" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg120.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="360" column="4" selection-start-line="360" selection-start-column="4" selection-end-line="360" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg121.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="326" column="4" selection-start-line="326" selection-start-column="4" selection-end-line="326" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg122.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="314" column="4" selection-start-line="314" selection-start-column="4" selection-end-line="314" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg123.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="300" column="4" selection-start-line="300" selection-start-column="4" selection-end-line="300" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg124.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="369" column="4" selection-start-line="369" selection-start-column="4" selection-end-line="369" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg125.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="375" column="4" selection-start-line="375" selection-start-column="4" selection-end-line="375" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg126.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="367" column="4" selection-start-line="367" selection-start-column="4" selection-end-line="367" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg127.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="309" column="4" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg128.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="313" column="4" selection-start-line="313" selection-start-column="4" selection-end-line="313" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg129.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="337" column="4" selection-start-line="337" selection-start-column="4" selection-end-line="337" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg130.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="315" column="4" selection-start-line="315" selection-start-column="4" selection-end-line="315" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg131.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg132.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="300" column="4" selection-start-line="300" selection-start-column="4" selection-end-line="300" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg134.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="290" column="4" selection-start-line="290" selection-start-column="4" selection-end-line="290" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg133.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg135.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="343" column="4" selection-start-line="343" selection-start-column="4" selection-end-line="343" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pafg136.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="154" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books/hendersons-of-early-sc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books/house-of-henderson.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <marker date="1467498071000" expanded="true" signature="4:46" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="9" column="117" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="11" column="115" selection-start-line="11" selection-start-column="115" selection-end-line="11" selection-end-column="115" />
-          <folding>
-            <marker date="1467499584000" expanded="true" signature="22:160" ph="..." />
-            <marker date="1467499584000" expanded="true" signature="42:153" ph="..." />
-            <marker date="1467499584000" expanded="true" signature="70:144" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <marker date="1467499545000" expanded="true" signature="122:2687" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="155:479" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="512:624" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="657:734" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="1092:1191" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="1224:1326" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="1605:1710" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="1829:1903" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="1936:2032" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="2230:2312" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="2345:2435" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="2468:2561" ph="..." />
-            <marker date="1467499545000" expanded="true" signature="2594:2681" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1467657566000" expanded="true" signature="41:1675" ph="..." />
-            <marker date="1467657566000" expanded="true" signature="69:1668" ph="..." />
-            <marker date="1467657566000" expanded="true" signature="1474:1613" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="105" />
-          <folding>
-            <marker date="1467498582000" expanded="true" signature="23:235" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="394:1156" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="444:527" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="577:663" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="713:797" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="859:952" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="984:1149" ph="..." />
-            <marker date="1467498582000" expanded="true" signature="1026:1140" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/books.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1467658701000" expanded="true" signature="9:31" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="41:44" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="54:60" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="71:147" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="155:188" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="204:233" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="244:279" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="292:304" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="314:317" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="327:333" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="344:423" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="431:461" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="477:532" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="543:578" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="592:604" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="614:617" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="627:633" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="644:722" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="730:760" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="776:832" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="843:871" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="885:897" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="907:910" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="920:926" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="937:1018" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1026:1056" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1072:1132" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1143:1172" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1186:1190" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1200:1202" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1212:1218" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1226:1256" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1272:1295" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1306:1334" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1348:1352" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1362:1364" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1374:1379" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1387:1417" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1433:1468" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1479:1507" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1521:1533" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1543:1545" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1555:1561" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1569:1599" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1615:1674" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1685:1714" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1728:1732" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1742:1744" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1754:1760" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1768:1798" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1814:1837" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1848:1878" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1888:1890" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1900:1905" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1913:1943" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1959:1982" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="1993:2025" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2035:2037" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2047:2052" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2060:2090" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2106:2129" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2140:2170" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2184:2188" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2198:2201" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2211:2217" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2225:2255" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2271:2296" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2307:2349" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2363:2375" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2385:2387" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2397:2402" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2410:2440" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2456:2479" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2490:2510" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2524:2528" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2538:2540" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2550:2556" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2564:2594" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2610:2633" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2644:2673" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2687:2691" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2701:2703" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2713:2719" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2727:2757" ph="..." />
-            <marker date="1467658701000" expanded="true" signature="2773:2821" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <marker date="1467659240000" expanded="true" signature="34:980" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="60:973" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="92:178" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="132:167" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="223:964" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="234:328" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="256:323" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="339:444" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="359:439" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="455:566" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="477:561" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="577:671" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="599:666" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="682:808" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="723:803" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="819:954" ph="..." />
-            <marker date="1467659240000" expanded="true" signature="864:949" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1467659261000" expanded="true" signature="41:578" ph="..." />
-            <marker date="1467659261000" expanded="true" signature="69:571" ph="..." />
-            <marker date="1467659261000" expanded="true" signature="297:559" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/allbooks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
