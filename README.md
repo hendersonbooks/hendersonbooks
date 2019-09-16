@@ -1,6 +1,6 @@
 # Framework
 
-https://jekyllrb.com/
+rvm list known
 
 ## Dev
 
