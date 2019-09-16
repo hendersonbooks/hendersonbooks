@@ -2,153 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69393cb2-f7b2-449f-a20d-8b9358db5483" name="Default" comment="update footer">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/books.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/books/hendersons-of-early-sc.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/books/hendersons-of-early-sc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/books/house-of-henderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/books/house-of-henderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/buy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/buy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index2.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index3.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg01.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg01.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg02.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg02.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg03.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg03.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg04.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg04.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg05.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg05.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg06.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg06.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg07.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg07.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg08.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg08.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg09.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg09.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg10.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg100.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg100.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg101.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg101.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg102.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg102.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg103.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg103.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg104.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg104.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg105.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg105.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg106.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg106.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg107.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg107.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg108.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg108.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg109.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg109.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg11.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg110.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg110.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg111.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg111.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg112.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg112.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg113.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg113.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg114.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg114.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg115.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg115.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg116.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg116.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg117.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg117.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg118.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg118.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg119.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg119.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg12.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg120.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg120.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg121.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg121.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg122.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg122.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg123.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg123.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg124.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg124.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg125.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg125.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg126.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg126.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg127.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg127.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg128.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg128.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg129.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg129.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg13.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg130.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg130.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg131.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg131.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg132.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg132.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg133.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg133.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg134.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg134.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg135.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg135.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg136.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg136.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg14.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg15.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg16.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg17.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg18.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg19.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg20.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg21.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg22.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg23.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg24.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg25.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg26.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg27.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg28.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg28.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg29.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg30.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg31.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg32.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg33.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg34.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg35.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg36.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg36.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg37.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg37.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg38.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg38.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg39.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg39.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg40.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg40.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg41.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg41.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg42.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg42.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg43.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg43.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg44.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg44.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg45.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg45.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg46.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg46.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg47.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg47.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg48.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg48.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg49.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg49.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg50.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg50.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg51.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg51.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg52.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg52.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg53.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg53.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg54.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg54.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg55.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg55.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg56.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg56.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg57.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg57.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg58.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg58.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg59.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg59.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg60.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg60.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg61.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg61.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg62.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg62.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg63.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg63.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg64.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg64.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg65.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg65.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg66.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg66.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg67.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg67.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg68.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg68.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg69.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg69.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg70.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg70.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg71.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg71.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg72.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg72.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg73.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg73.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg74.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg74.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg75.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg75.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg76.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg76.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg77.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg77.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg78.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg78.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg79.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg79.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg80.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg80.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg81.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg81.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg82.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg82.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg83.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg83.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg84.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg84.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg85.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg85.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg86.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg86.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg87.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg87.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg88.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg88.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg89.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg89.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg90.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg90.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg91.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg91.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg92.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg92.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg93.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg93.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg94.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg94.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg95.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg95.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg96.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg96.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg97.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg97.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg98.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg98.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pafg99.htm" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pafg99.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +118,7 @@
       <workItem from="1568502273926" duration="443000" />
       <workItem from="1568502739373" duration="338000" />
       <workItem from="1568638010709" duration="255000" />
-      <workItem from="1568662055447" duration="1918000" />
+      <workItem from="1568662055447" duration="2068000" />
     </task>
     <task id="LOCAL-00001" summary="wip design">
       <created>1467492024452</created>
@@ -392,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568663851317</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update footer">
+      <created>1568664265071</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568664265071</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,8 +283,8 @@
     <MESSAGE value="add buy section" />
     <MESSAGE value="remove amazon" />
     <MESSAGE value="update site" />
-    <MESSAGE value="update footer" />
     <MESSAGE value="add cname" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cname" />
+    <MESSAGE value="update footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="update footer" />
   </component>
 </project>
